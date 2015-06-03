@@ -1,3 +1,3 @@
 This is readme for the git training by code school.
 
-Added LICENSE
+Added LICENSE with Genentech, Inc name in it.
